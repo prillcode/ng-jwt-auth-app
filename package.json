@@ -1,5 +1,5 @@
 {
-    "name": "angular-14-jwt-authentication-example",
+    "name": "angular-jwt-authentication-app",
     "version": "0.0.0",
     "scripts": {
         "ng": "ng",
